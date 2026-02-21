@@ -1,4 +1,4 @@
-package Day17_Collection;
+package Day17_18_Collection;
 
 import java.util.ArrayList; // 필수!
 
