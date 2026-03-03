@@ -1,6 +1,6 @@
 package Day9_Encapsulation;
 
-public class Day9_Encapsulation {
+public class    Day9_Encapsulation {
         public static void main(String[] args) {
             BankAccount myAcc = new BankAccount(1000);
 
