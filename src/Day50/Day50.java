@@ -1,3 +1,5 @@
+package Day50;
+
 import java.util.*;
 
 public class Day50 {

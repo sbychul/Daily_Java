@@ -1,3 +1,5 @@
+package Day49;
+
 import java.util.*;
 
 public class Day49 {
