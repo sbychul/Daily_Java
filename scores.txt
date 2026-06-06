@@ -1,0 +1,6 @@
+Lando Norris:423
+Max Verstappen:421
+Oscar Piastri:410
+George Russell:319
+Charles Leclerc:242
+Lewis Hamilton:156
