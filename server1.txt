@@ -1,0 +1,4 @@
+INFO/10:01/Server started successfully.
+WARN/10:05/Memory usage exceeded 80%.
+INFO/10:10/User 'Max' logged in.
+ERROR/10:15/Database connection timeout.
